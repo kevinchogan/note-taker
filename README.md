@@ -36,6 +36,7 @@ Click on the "Get Started" button to see and edit your list of notes.
 * Express.js Copyright © 2017 StrongLoop, IBM, and other expressjs.com contributors.
 * cLog is an open source library written by [Joon Kyoung](https://github.com/firejune/clog) and is covered under the MIT license
 * UUID is an open source library covered under the MIT license
+* 404 image generated using Adobe Firefly. 
 
 ## License
 
